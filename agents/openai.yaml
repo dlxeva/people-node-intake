@@ -1,4 +1,4 @@
 interface:
-  display_name: "People Intake"
-  short_description: "Turn person mentions into safe intake"
-  default_prompt: "Use $people-intake to turn a person-related note into a safe intake result and task handoff."
+  display_name: "People Node Intake"
+  short_description: "Turn person-related input into safe person-node intake"
+  default_prompt: "Use $people-node-intake to turn a person-related note into a safe person-node intake result and task handoff."

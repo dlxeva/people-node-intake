@@ -1,6 +1,6 @@
-# People Intake
+# People Node Intake
 
-People Intake turns messy person-related input into safe intake decisions for person nodes and task handoff.
+People Node Intake turns messy person-related input into safe person-node intake decisions and task handoff.
 
 ## Best For
 
@@ -36,8 +36,8 @@ Copy this folder into your skill directory.
 
 Example paths:
 
-- `~/.claude/skills/people-intake`
-- `~/.openclaw/workspace/skills/people-intake`
+- `~/.claude/skills/people-node-intake`
+- `~/.openclaw/workspace/skills/people-node-intake`
 
 ## Quick Start
 

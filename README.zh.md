@@ -1,6 +1,6 @@
-# People Intake
+# People Node Intake
 
-People Intake 用来把零散的人物相关输入，收成安全的人物 intake 决策和任务衔接结果。
+People Node Intake 用来把零散的人物相关输入，收成安全的人物节点录入决策和任务衔接结果。
 
 ## 最适合的场景
 
@@ -36,8 +36,8 @@ People Intake 用来把零散的人物相关输入，收成安全的人物 intak
 
 示例路径：
 
-- `~/.claude/skills/people-intake`
-- `~/.openclaw/workspace/skills/people-intake`
+- `~/.claude/skills/people-node-intake`
+- `~/.openclaw/workspace/skills/people-node-intake`
 
 ## 快速开始
 

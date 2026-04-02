@@ -1,9 +1,9 @@
 ---
-name: people-intake
-description: Turn person-related input into safe intake decisions for person nodes and task handoff. Use when the user mentions a specific person, asks to remember/track/profile someone, pastes notes or screenshots about a person, asks "XXX 是谁", says "记一下这个人", or mixes a person with follow-up actions such as contact, remind, follow up, or suspend. Do not use for pure task management or non-person content.
+name: people-node-intake
+description: Turn person-related input into safe person-node intake decisions for creation, append-only updates, dedup checks, and task handoff. Use when the user mentions a specific person, asks to remember or track someone, pastes notes or screenshots about a person, or mixes a person with follow-up actions.
 ---
 
-# People Intake
+# People Node Intake
 
 ## Role
 
@@ -110,7 +110,7 @@ Use `needs confirmation` when:
 Always return this structure:
 
 ```md
-## 人物 Intake 结果
+## 人物节点录入结果
 
 - **处理对象**：某联系人
 - **操作类型**：新建 / 追加 / 候选 / 待确认
