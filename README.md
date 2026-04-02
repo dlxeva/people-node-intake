@@ -1,5 +1,7 @@
 # People Node Intake
 
+[English](./README.md) | [中文](./README.zh.md)
+
 People Node Intake turns messy person-related input into safe person-node intake decisions and task handoff.
 
 ## Best For
@@ -28,7 +30,7 @@ People Node Intake turns messy person-related input into safe person-node intake
 - an Obsidian Vault is available
 - the Vault contains `Library/People/`
 - a task protocol is available for follow-up action handoff
-- Synaptic Link or equivalent retrieval is available for recall
+- [Synaptic Link](https://github.com/dlxeva/synaptic-link) or equivalent retrieval is available for recall
 
 ## Install
 
